@@ -11,7 +11,7 @@ Activity 3: Try markdown syntax.
 
 # Level 1 header #
 
-![Added image](/images/tux.avif)
+![Added image](/images/tux.jpg)
 
 ## Level 2 header ##
 
