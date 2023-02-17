@@ -9,13 +9,13 @@ Q3
 
 Activity 3: Try markdown syntax.
 
-#Level 1 header#
+# Level 1 header #
 
 [Added image](/images/tux.avif)
 
-##Level 2 header##
+## Level 2 header ##
 
-###Level 3 header###
+### Level 3 header ###
 
 [Link to Code folder](/code/)
 
